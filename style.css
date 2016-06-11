@@ -348,40 +348,68 @@ margin-left: 0%;
 
 
 #div1 {
-  width: 33%;
+  display:inline-block;
+  width: 36%;
   height: 50%;
   float: left;
   background-color: #3ddad7;
 }
 #div2 {
-  width: 33%;
+  display:inline-block;
+  width: 30%;
   height: 50%;
   float: left;
   background-color: #2a93d5;
 }
 #div3 {
+  display:inline-block;
   width: 30%;
   height: 50%;
   float: left;
   background-color: #135589;
 }
 #div4 {
-  width: 33%;
+  display:inline-block;
+  width: 36%;
   height: 50%;
   float: left;
   background-color: #2a93d5;
 }
 #div5 {
-  width: 33%;
+  display:inline-block;
+  width: 30%;
   height: 50%;
   float: left;
   background-color: #135589;
 }
 #div6 {
+  display:inline-block;
   width: 30%;
   height: 50%;
   float: left;
   background-color: #3ddad7;
 
 }
+
+#div1:hover{
+  background-color: #Aed9da;
+}
+#div2:hover{
+  background-color: #Aed9da;
+}
+#div3:hover{
+  background-color: #Aed9da;
+}
+#div4:hover{
+  background-color: #Aed9da;
+}
+#div5:hover{
+  background-color: #Aed9da;
+}
+#div6:hover{
+  background-color: #Aed9da;
+}
+
+
+
 </style>
